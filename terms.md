@@ -1,0 +1,112 @@
+# App.net - Terms of Service
+
+Last Updated: August 23, 2012
+
+We asked our attorney to help us craft some terms that outline, with the least amount of legalese, the important things you need to know about accessing and using App.net's website and service (collectively, "Service"). These are our terms of service ("Terms"). Please read them carefully.
+
+## Accepting these Terms
+
+If you access or use the Service, it means you agree to be bound by all of the terms below. So, before you use the Service, please read all of the terms. If you don't agree to all of the terms below, please do not use the Service. Also, if a term does not make sense to you, please let us know.
+
+## Changes to these Terms
+
+We reserve the right to modify these Terms at any time. For instance, we may need to change these Terms if we come out with a new feature or for some other reason. We will let you know if we have modified these Terms by indicating at the top of these Terms the date the document was last updated.
+
+Whenever we make changes to these Terms, they are effective when the revised Terms are posted. If you continue to use the Service after the revised Terms have been posted, then you have accepted the changes to these Terms.
+
+## Privacy Policy
+
+For information about how we collect and use information about users of the Service, please check out our [privacy policy](/legal/privacy/).
+
+## Creating Accounts
+
+When you create an account, you may use any name (real, fake or otherwise). If you create a "pseudo anonymous" account, please provide your real name for billing purposes. If you create a "parody" account, you must clearly label your account as such and please provide your real name for billing purposes.
+
+When you create an account you also agree to maintain the security of your password and accept all risks of unauthorized access to your account data and any other information you provide to App.net.
+
+If you discover or suspect any Service security breaches, please let us know as soon as possible.
+
+## Subscriptions
+
+Right now, we are providing developer and member tier annual subscriptions. The payment and other terms applicable to your subscription are outlined in our [Subscription Terms](/legal/subscription-terms/).
+
+## Your content & conduct
+
+Our Service allows you and other users to post, link and otherwise make available content. You are responsible for the content that you make available to the Service, including its legality, reliability, and appropriateness.
+
+When you post, link or otherwise make available content to the Service, you grant us the right and license to use, reproduce, modify, publicly perform, publicly display and distribute your content on or through the Service.
+
+Aside from our limited right to your content, you retain all of your rights to the content you post, link and otherwise make available on or through the Service.
+
+You can remove the content that you posted by deleting it. Once you delete your content, it will not appear on the Service, but copies of your deleted content may remain in our system. We will retain web server access logs for maximum of 2 weeks and then delete them.
+
+In order to make App.net a great place for all of us, please do not post, link and otherwise make available on or through the Service any of the following:
+
+* Content that is libelous, defamatory, bigoted, fraudulent or deceptive;
+* Content that is illegal or unlawful, that would otherwise create liability;
+* Content that may infringe or violate any patent, trademark, trade secret, copyright, right of privacy, right of publicity or other intellectual or other right of any party;
+* Unsolicited promotions, political campaigning, or commercial messages (SPAM);
+* Private information of any third party (e.g., addresses, phone numbers, email addresses, Social Security numbers and credit card numbers); and
+* Viruses, corrupted data or other harmful, disruptive or destructive files or code.
+
+Also, you agree that you will not do any of the following in connection with the Service or other users:
+
+* Use the Service in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying the Service or that could damage, disable, overburden or impair the functioning of the Service;
+* Impersonate or post on behalf or any person or entity or otherwise misrepresent your affiliation with a person or entity;
+* Collect any personal information about other users, or intimidate, threaten, stalk or otherwise harass other users of the Service;
+* Create an account or post any content if you are not over 13 years of age;
+* Circumvent or attempt to circumvent any filtering, security measures, rate limits or other features designed to protect the Service, users of the Service, or third parties.
+
+## App.net's Materials
+
+We put a lot of effort into creating the Service including, the logo and all designs, text, graphics, pictures, information and other content (excluding your content). This property is owned by us or our licensors and it is protected by U.S. and international copyright laws. We grant you the right to use it.
+
+However, unless we expressly state otherwise, your rights does not include: (i) publicly performing or publicly displaying the Service, (ii) modifying or otherwise making any derivative uses of the Service or any portion thereof; (iii) using any data mining, robots or similar data gathering or extraction methods; (iv) downloading (other than page caching) of any portion of the Service or any information contained therein; (v) reverse engineering or access to the Service in order to build a competitive product or service; or (vi) using the Service other than for its intended purposes. If you do any of this stuff, we may terminate your use of the Service.
+
+## Hyperlinks and Third Party Content
+
+You may create a text hyperlink to the Service for noncommercial purposes. But, you may not use, frame or utilize framing techniques to enclose any App.net trademark, logo or other proprietary information without App.net's express written consent.
+
+App.net makes no claim or representation regarding, and accepts no responsibility for third party websites accessible by hyperlink from our website or websites linking to the Service. When you leave the Service, you should be aware that these Terms and our policies no longer govern.
+
+A lot of the content on the Service is from you and others, and we don't review, verify or authenticate it, and it may include inaccuracies or false information. We make no representations, warranties, or guarantees relating to the quality, suitability, truth, accuracy or completeness of any content contained in the Service. You acknowledge sole responsibility for and assume all risk arising from your use of or reliance on any content.
+
+## Unavoidable Legal Stuff
+
+THE SERVICE AND ANY OTHER SERVICE AND CONTENT INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SERVICE ARE PROVIDED TO YOU ON AN AS IS OR AS AVAILABLE BASIS WITHOUT ANY REPRESENTATIONS OR WARRANTIES OF ANY KIND. WE DISCLAIM ANY AND ALL OTHER WARRANTIES AND REPRESENTATIONS (EXPRESS OR IMPLIED, ORAL OR WRITTEN) WITH RESPECT TO THE SERVICE AND CONTENT INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SERVICE WHETHER ALLEGED TO ARISE BY OPERATION OF LAW, BY REASON OF CUSTOM OR USAGE IN THE TRADE, BY COURSE OF DEALING OR OTHERWISE.
+
+IN NO EVENT WILL APP.NET BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY SPECIAL, INDIRECT, INCIDENTAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES OF ANY KIND ARISING OUT OF OR IN CONNECTION WITH THE SERVICE OR ANY OTHER SERVICE AND CONTENT INCLUDED ON OR OTHERWISE MADE AVAILABLE TO YOU THROUGH THE SERVICE, REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR ARE AWARE OF THE POSSIBILITY OF SUCH DAMAGES. OUR TOTAL LIABILITY TO FOR ALL CAUSES OF ACTION AND UNDER ALL THEORIES OF LIABILITY WILL BE LIMITED TO THE AMOUNT YOU PAID FOR ONE 12 MONTH SUBSCRIPTION. THIS SECTION WILL BE GIVEN FULL EFFECT EVEN IF ANY REMEDY SPECIFIED IN THIS AGREEMENT IS DEEMED TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
+
+You agree to defend, indemnify and hold us harmless from and against any and all costs, damages, liabilities, and expenses (including attorneys' fees) we incur we in relation to, arising from, or for the purpose of avoiding, any claim or demand from a third party that your use of the Service or the use of the Service by any person using your account violates any applicable law or regulation, or the rights of any third party, and/or your violation of these Terms.
+
+## Copyright Complaints
+
+App.net takes intellectual property rights seriously. In accordance with the Digital Millennium Copyright Act ("DMCA") and other applicable law, App.net has adopted a policy of terminating, in appropriate circumstances and, at App.net's sole discretion, users who are deemed to be repeat infringers. For further information, please see App.net's [Copyright Policy](/legal/copyright/).
+
+## Governing Law
+
+The validity of these Terms and the rights, obligations, and relations of the parties under these Terms will be construed and determined under and in accordance with the laws of the State of California, without regard to conflicts of law principles.
+
+## Arbitration
+
+PLEASE READ THE FOLLOWING PARAGRAPHS CAREFULLY BECAUSE THEY REQUIRE YOU TO ARBITRATE DISPUTES WITH APP.NET AND LIMIT THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM APP.NET.
+
+In the event of any controversy or claim arising out of or relating in any way to these Terms or the Service, you and App.net agree to consult and negotiate with each other and, recognizing your mutual interests, attempt to reach a solution satisfactory to both parties. If we do not reach settlement within a period of 60 days, then either of us may, by notice to the other demand mediation under the mediation rules of the American Arbitration Association in San Francisco, California. We both give up our right to litigate our disputes and may not proceed to arbitration without first attempting mediation, except that you and App.net are NOT required to arbitrate any dispute in which either party seeks equitable and other relief from the alleged unlawful use of copyrights, trademarks, trade names, logos, trade secrets or patents. Whether the dispute is heard in arbitration or in court, you and App.net will not commence against the other a class action, class arbitration or other representative action or proceeding.
+
+If settlement is not reached within 60 days after service of a written demand for mediation, any unresolved controversy or claim will be resolved by arbitration in accordance with the rules of the American Arbitration Association before a single arbitrator in San Francisco, California. The language of all proceedings and filings will be English. The arbitrator will render a written opinion including findings of fact and law and the award and/or determination of the arbitrator will be binding upon the parties, and their respective administrators and assigns, and will not be subject to appeal. Judgment may be entered upon the award of the arbitrator in any court of competent jurisdiction. The expenses of the arbitration will be shared equally by the parties unless the arbitration determines that the expenses will be otherwise assessed and the prevailing party may be awarded its attorneys' fees and expenses by the arbitrator. It is the intent of the parties that, barring extraordinary circumstances, arbitration proceedings will be concluded within 90 days from the date the arbitrator is appointed. The arbitrator may extend this time limit only if failure to do so would unduly prejudice the rights of the parties. Failure to adhere to this time limit will not constitute a basis for challenging the award. Consistent with the expedited nature of arbitration, pre-hearing information exchange will be limited to the reasonable production of relevant, non-privileged documents, carried out expeditiously.
+
+## Termination
+
+If you breach any of these Terms, we have the right to suspend or disable your access to or use of the Service.
+
+## Entire Agreement
+
+These Terms constitute the entire agreement between you and App.net regarding the use of the Service and the Service, superseding any prior agreements between you and App.net relating to your use of the Service.
+
+## Feedback
+
+We love feedback. Please let us know what you think of the Service, these Terms and, in general, App.net. When you provide us with any feedback, comments or suggestions about the Service, these Terms and, in general, App.net, you irrevocably assign to us all of your right, title and interest in and to your feedback, comments and suggestions.
+
+## Questions & Contact Information
+
+Questions or comments about the Service may be directed to us at the email address support@app.net.
