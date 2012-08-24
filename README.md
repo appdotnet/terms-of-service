@@ -4,6 +4,14 @@ The App.net terms of service documents live here. To facilitate transparent disc
 submit pull requests with your feedback. Our general process is to incorporate user feedback on a roughly quarterly basis based on
 review with our legal team, but in the early stages this may occur significantly more often.
 
+## Important note
+
+The current Privacy Policy document is effectively a "form-of" document that we are working to replace with a much more user-focused, privacy-centric document. General commentary on desired policies and practices is welcomed, but please don't yet spend time on nitpicks on that document.
+
+In addition, we will be adding a separate "Developer Terms" document which should encapsulate usage of the API more specifically.
+
+## Document locations
+
 The canonical locations for the effective versions of these documents at any given time are:
 
 * Terms of Service: [https://alpha.app.net/legal/terms/](https://alpha.app.net/legal/terms/)
@@ -12,5 +20,7 @@ The canonical locations for the effective versions of these documents at any giv
 * Subscription Terms: [https://alpha.app.net/legal/subscription-terms/](https://alpha.app.net/legal/subscription-terms/)
 
 While we will make reasonable attempts to maintain a "effective-versions" branch here in GitHub, as well as tags to show which specific version(s) have been made effective, in all cases the only effective documents will be located at the above URLs, not in git.
+
+## Contact
 
 If you have feedback which you would like to make available privately, please email support@app.net.
