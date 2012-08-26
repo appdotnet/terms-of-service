@@ -6,7 +6,7 @@ review with our legal team, but in the early stages this may occur significantly
 
 ## Important note
 
-The current Privacy Policy document is effectively a "form-of" document that we are working to replace with a much more user-focused, privacy-centric document. General commentary on desired policies and practices is welcomed, but please don't yet spend time on nitpicks on that document.
+The current Privacy Policy document is basic document document that we are working to replace with a much more user-focused, privacy-centric document. General commentary on desired policies and practices is welcomed.
 
 In addition, we will be adding a separate "Developer Terms" document which should encapsulate usage of the API more specifically.
 
