@@ -16,7 +16,10 @@ If you are a copyright owner, or are authorized to act on behalf of one, or auth
 1. Include both of the following statements in the body of the Notice: (i) "I hereby state that I have a good faith belief that the disputed use of the copyrighted material is not authorized by the copyright owner, its agent, or the law (e.g., as a fair use)"; and (ii) "I hereby state that the information in this Notice is accurate and, under penalty of perjury, that I am the owner, or authorized to act on behalf of the owner, of the copyright or of an exclusive right under the copyright that is allegedly infringed."
 1. Provide your full legal name and your electronic or physical signature.
 1. Deliver this Notice, with all items completed, to App.net's Designated Copyright Agent:
-Bryan Berg
-c/o Mixed Media Labs, Inc.
-650 5th St., Suite 403
-San Francisco, CA 94107
+
+Bryan Berg<br>
+c/o Mixed Media Labs, Inc.<br>
+650 5th St., Suite 403<br>
+San Francisco, CA 94107<br>
+<br>
+[dmca@app.net](mailto:dmca@app.net)
