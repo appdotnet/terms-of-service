@@ -4,7 +4,7 @@ Last Updated: September 26, 2012
 
 To encourage the use of our API by developers and the creation of new and interesting experiences for App.net users, we have set up a program to reward developers based on the quality and usage of their Applications. If you elect to participate in the App.net Developer Incentive Program, you agree to be bound by the additional terms and conditions in this agreement (the "Incentive Program Agreement").
 
-All developers are subject to the Developer Terms of Service, which are incorporated into this Inventive Program Agreement by reference, and [available here](/legal/incentive/) (the "Developer Terms"). Any terms not defined in this Incentive Program Agreement will have the meaning given in the Developer Terms.
+All developers are subject to the Developer Terms of Service, which are incorporated into this Incentive Program Agreement by reference, and [available here](/legal/developer-terms/) (the "Developer Terms"). Any terms not defined in this Incentive Program Agreement will have the meaning given in the Developer Terms.
 
 ## Eligibility
 
