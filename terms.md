@@ -22,7 +22,7 @@ For information about how we collect and use information about users of the Serv
 
 ## API Developer Terms and Conditions
 
-If you are a developer of applications for use with the Service, our Developer Terms and Conditions apply with respect to your use of our API and the development of applications.  In the event there is a conflict between these Terms and the Developer Terms and Conditions, the Developer Terms and Conditions will apply.
+If you are a developer of applications for use with the Service, our [Developer Terms and Conditions](/legal/developer-terms/) apply with respect to your use of our API and the development of applications.  In the event there is a conflict between these Terms and the Developer Terms and Conditions, the Developer Terms and Conditions will apply.
 
 ## Third-Party Services
 
