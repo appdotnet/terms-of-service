@@ -17,6 +17,10 @@ The canonical locations for the effective versions of these documents at any giv
 
 While we will make reasonable attempts to maintain a "effective-versions" branch here in GitHub, as well as tags to show which specific version(s) have been made effective, in all cases the only effective documents will be located at the above URLs, not in git.
 
+## License
+
+The App.net terms of use and privacy policy are available to you under the [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) Creative Commons license. Please note, however, that since these documents are tailored for specifically for our service, they are likely not suitable, as-is, for use by applications which consume the App.net API. Also, you acknowledge and agree that we neither make any representations or warranties with respect to the documents nor assume any liability with respect to the use of the documents.
+
 ## Contact
 
 If you have feedback which you would like to make available privately, please email support@app.net.
