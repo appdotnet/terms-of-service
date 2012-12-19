@@ -61,7 +61,7 @@ We love feedback. Please let us know what you think of the API, these Developer 
 
 ## Developer Incentive Program
 
-Access to the API is available to any active App.net subscriber with an active developer account.  App.net has created an optional "Developer Incentive Program" which developers may elect to participate in at their own discretion. For information about the App.net Developer Incentive Program, click here.
+Access to the API is available to any active App.net subscriber with an active developer account.  App.net has created an optional "Developer Incentive Program" which developers may elect to participate in at their own discretion. For information about the App.net Developer Incentive Program, [click here](/legal/incentive-terms/).
 
 ## Warranty Disclaimer
 

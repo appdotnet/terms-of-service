@@ -1,10 +1,10 @@
 # App.net - Subscription Terms
 
-Last Updated: September 19, 2012
+Last Updated: February 7, 2013
 
 By purchasing a subscription you signify that you have read, understand and agree to be bound by the Subscription Terms in effect at the time of your purchase. Your purchases through App.net's website and your use of App.net's service are also governed by App.net's terms of service (which are incorporated by reference in these subscription terms).
 
-Except as otherwise stated, these Subscription Terms are subject to change at any time and in App.net's sole discretion. Any changes are effective 5 days after we post such revised Subscription Terms to our website (indicated by revising the date at the top of these Subscription Terms), or when we notify you of the changes by e-mail or other means, or upon your acceptance if we provide a mechanism for your immediate acceptance of the revised Subscription Terms (such as a click-through confirmation or acceptance button).  It is your responsibility to check the website regularly for changes to these Subscription Terms. If you do not agree to these Subscription Terms, please do not purchase a subscription.
+Except as otherwise stated, these Subscription Terms are subject to change at any time and in App.net's sole discretion. Any changes are effective six (6) weeks after we post such revised Subscription Terms to our website (indicated by revising the date at the top of these Subscription Terms), or upon your acceptance if we provide a mechanism for your immediate acceptance of the revised Subscription Terms (such as a click-through confirmation or acceptance button). It is your responsibility to check the website regularly for changes to these Subscription Terms. If you do not agree to these Subscription Terms, please do not purchase a subscription.
 
 If you have any questions regarding these Subscription Terms, please contact App.net by emailing [support@app.net](mailto:support@app.net).
 

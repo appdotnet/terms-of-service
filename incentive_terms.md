@@ -12,14 +12,14 @@ You are eligible to participate in the App.net Developer Incentive Program (the 
 
 * You have an active App.net developer account and maintain a fully-paid subscription at all times during your participation in the Incentive Program.
 * You have created a working Application that accesses our API.
-* You have submitted a complete and accurate sign-up form located in your account settings or sent to the e-mail associated with your developer account.
+* You have submitted a complete and accurate [sign-up form](/developer/enrollment/) located in your account settings or sent to the e-mail associated with your developer account.
 * You have received notice from App.net, via a notification or e-mail, that your participation in the Incentive Program has been confirmed.
 
 ## Registration
 
 In order to participate in the Incentive Program, you will be required during the registration process to provide App.net with certain financial information so that we may pay you any applicable amounts earned. You are responsible for providing such payment information and for ensuring its accuracy and completeness.
 
-Further, you will ensure that the information in your sign-up form and developer account, including your e-mail address and other information are at all times complete, accurate and up-to-date. We may send notifications regarding the Incentive Program and this Incentive Program Agreement to the e-mail address then-associated with your account.
+Further, you will ensure that the information in your [sign-up form](/developer/enrollment/) and developer account, including your e-mail address and other information are at all times complete, accurate and up-to-date. We may send notifications regarding the Incentive Program and this Incentive Program Agreement to the e-mail address then-associated with your account.
 
 Eligible developers who successfully complete the registration process and are notified by App.net of their approval to join the Incentive Program will be referred to as "Approved Developers".
 
