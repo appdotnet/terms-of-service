@@ -1,25 +1,25 @@
 # App.net - Developer Incentive Program Agreement
 
-Last Updated: September 26, 2012
+Last Updated: March 1, 2013
 
 To encourage the use of our API by developers and the creation of new and interesting experiences for App.net users, we have set up a program to reward developers based on the quality and usage of their Applications. If you elect to participate in the App.net Developer Incentive Program, you agree to be bound by the additional terms and conditions in this agreement (the "Incentive Program Agreement").
 
-All developers are subject to the Developer Terms of Service, which are incorporated into this Incentive Program Agreement by reference, and [available here](/legal/developer-terms/) (the "Developer Terms"). Any terms not defined in this Incentive Program Agreement will have the meaning given in the Developer Terms.
+All developers are subject to the Developer Terms of Service, which are incorporated into this Incentive Program Agreement by reference, and [available here](https://account.app.net/legal/developer-terms/) (the "Developer Terms"). Any terms not defined in this Incentive Program Agreement will have the meaning given in the Developer Terms.
 
 ## Eligibility
 
 You are eligible to participate in the App.net Developer Incentive Program (the "Incentive Program") if you meet the following criteria:
 
 * You have an active App.net developer account and maintain a fully-paid subscription at all times during your participation in the Incentive Program.
-* You have created a working Application that accesses our API.
-* You have submitted a complete and accurate [sign-up form](/developer/enrollment/) located in your account settings or sent to the e-mail associated with your developer account.
+* You have created at least one working Application that accesses our API, has 50 or more authorized tokens, is listed in the [App Directory](https://directory.app.net/), and has its own privacy policy and terms of service (an "Eligible Application").
+* You have submitted a complete and accurate [sign-up form](https://account.app.net/developer/enrollment/) located in your account settings or sent to the e-mail associated with your developer account.
 * You have received notice from App.net, via a notification or e-mail, that your participation in the Incentive Program has been confirmed.
 
 ## Registration
 
 In order to participate in the Incentive Program, you will be required during the registration process to provide App.net with certain financial information so that we may pay you any applicable amounts earned. You are responsible for providing such payment information and for ensuring its accuracy and completeness.
 
-Further, you will ensure that the information in your [sign-up form](/developer/enrollment/) and developer account, including your e-mail address and other information are at all times complete, accurate and up-to-date. We may send notifications regarding the Incentive Program and this Incentive Program Agreement to the e-mail address then-associated with your account.
+Further, you will ensure that the information in your [sign-up form](https://account.app.net/developer/enrollment/) and developer account, including your e-mail address and other information, are at all times complete, accurate and up-to-date. We may send notifications regarding the Incentive Program and this Incentive Program Agreement to the e-mail address then-associated with your account.
 
 Eligible developers who successfully complete the registration process and are notified by App.net of their approval to join the Incentive Program will be referred to as "Approved Developers".
 
@@ -27,19 +27,19 @@ Eligible developers who successfully complete the registration process and are n
 
 Each month, App.net will allocate a certain dollar amount to a collective incentive pool (the "Incentive Pool").
 
-The size of the monthly Incentive Pool as of September 2012 is $20,000.
+The size of the monthly Incentive Pool as of March 2013 is $30,000.
 
 The Incentive Pool will be allocated to Approved Developers according to their earned pro-rata share. The monthly pro-rata share for a qualifying Approved Developer (the "Incentive Payment") will be calculated as follows:
 
-* Each Application created by an Approved Developer will be assigned a monthly score based on a formula determined by App.net. The formula will take into account both usage statistics from the API (e.g., number of App.net users who accessed the Application during the month, how often they used it, which actions they took, etc.), as well as feedback from users as solicited exclusively by App.net. For Approved Developers with multiple Applications, the individual scores of their Applications will be added together to create a single, combined monthly score.
+* Each Eligible Application created by an Approved Developer will be assigned a monthly score based on a formula determined by App.net. The formula will take into account both usage statistics from the API (e.g., number of App.net users who accessed the Eligible Application during the month, how often they used it, which actions they took, etc.), as well as feedback from users as solicited exclusively by App.net. For Approved Developers with multiple Applications, the individual scores of their Eligible Applications will be added together to create a single, combined monthly score.
 
 * The Incentive Payment for each Approved Developer will equal:
 
-    * the total score of the Approved Developer's Application(s) for the applicable month, _divided by_ the total score for all of the Applications created by the Approved Developers in the applicable month; _multiplied by_
+    * the total score of the Approved Developer's Eligible Application(s) for the applicable month, _divided by_ the total score for all of the Eligible Applications created by the Approved Developers in the applicable month; _multiplied by_
 
     * the total dollar amount of the applicable month's Incentive Pool.
 
-* By way of example and not in limitation of the foregoing, if the combined score for all Applications in the Incentive Program is 100, the Incentive Payment for an Approved Developer with an Application score of 10 would equal $2,000  (or, 10/100 x $20,000).
+* By way of example and not in limitation of the foregoing, if the combined score for all Eligible Applications in the Incentive Program is 100, the Incentive Payment for an Approved Developer with a score of 10 would equal $3,000 (or, 10/100 x $30,000).
 
 ## Payments
 
@@ -71,6 +71,3 @@ c/o Mixed Media Labs, Inc.<br>
 San Francisco, CA 94107<br>
 <br>
 [support@app.net](mailto:support@app.net)
-
-
-
