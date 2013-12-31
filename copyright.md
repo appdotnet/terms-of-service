@@ -1,6 +1,6 @@
 # App.net - Copyright Policy
 
-Last Revised: September 19, 2012
+Last Revised: December 30, 2013
 
 App.net respects the intellectual property rights of others and expects its users to do the same.
 
@@ -29,4 +29,5 @@ c/o Mixed Media Labs, Inc.<br>
 650 5th St., Suite 403<br>
 San Francisco, CA 94107<br>
 <br>
++1 415 520-3930<br>
 [dmca@app.net](mailto:dmca@app.net)
