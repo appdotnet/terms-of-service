@@ -19,7 +19,7 @@ While we will make reasonable attempts to maintain a "effective-versions" branch
 
 ## License
 
-The App.net terms of use and privacy policy are available to you under the [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) Creative Commons license. Please note, however, that since these documents are tailored for specifically for our service, they are likely not suitable, as-is, for use by applications which consume the App.net API. Also, you acknowledge and agree that we neither make any representations or warranties with respect to the documents nor assume any liability with respect to the use of the documents.
+The App.net terms of service and all associated documents in this repository are available to you under the [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) Creative Commons license. Please note, however, that since these documents are tailored for specifically for our service, they are likely not suitable, as-is, for use by applications which consume the App.net API. Also, you acknowledge and agree that we neither make any representations or warranties with respect to the documents nor assume any liability with respect to the use of the documents.
 
 ## Contact
 
